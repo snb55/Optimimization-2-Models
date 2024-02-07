@@ -1,0 +1,6 @@
+Sources,Warehouse1,Warehouse2,Warehouse3,Warehouse4,Supply
+Factory1,12,12,15,7,50
+Factory2,13,11,10,13,70
+Factory3,9,6,4,12,30
+Factory4,8,13,8,9,50
+Demand,25,35,105,35,200
